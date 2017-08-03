@@ -304,6 +304,13 @@ class M11XR25(M11XR1):
         self.name = TEXT_M11XR25
 
 
+class AuroraR4(M11XR1):
+
+    def __init__(self):
+        super().__init__()
+        self.name = TEXT_AURORAR4
+
+
 class M14XR1(CommonConf):
 
     def __init__(self):
@@ -1558,6 +1565,9 @@ class AllComputers():
         # the device information. > Gaming' take a look to Engine.py
         TEXT_M14XR2: Computer(TEXT_M14XR2, 0x187c, 0x0521, M14XR2()),
         TEXT_M14XR3: Computer(TEXT_M14XR3, 0x187c, 0x0525, M14XR3()),
+
+        TEXT_M14XR3: Computer(TEXT_AURORAR4, 0x187c, 0x0513, AuroraR4()),
+    
 
         TEXT_M15XAREA51: Computer(TEXT_M15XAREA51, 0x187c, 0x0511, M15XArea51()),
         TEXT_ALIENWARE15: Computer(TEXT_ALIENWARE15, 0x187c, 0x0528, Alienware15()),
