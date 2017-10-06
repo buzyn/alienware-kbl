@@ -1,0 +1,99 @@
+Alienware 13 i7-5500u\gtx860m\uhd touchskreen
+[Device found]: Vendor ID: 6268	 Product ID: 1319
+
+[Command]: Lights off
+[TEST]: block: 1	 hex: 0x1	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+right kbl
+
+[Command]: Lights off
+[TEST]: block: 2	 hex: 0x2	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+right-centr kbl: not included in reality
+
+[Command]: Lights off
+[TEST]: block: 4	 hex: 0x4	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+left-cent kbl
+
+[Command]: Lights off
+[TEST]: block: 8	 hex: 0x8	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+left kbl
+
+[Command]: Lights off
+[TEST]: block: 16	 hex: 0x10	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+unknown
+
+[Command]: Lights off
+[TEST]: block: 32	 hex: 0x20	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+external logo 
+
+[Command]: Lights off
+[TEST]: block: 64	 hex: 0x40	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+internal logo
+
+
+[Command]: Lights off
+[TEST]: block: 128	 hex: 0x80	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+Caps lock
+
+[Command]: Lights off
+[TEST]: block: 256	 hex: 0x100	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+unknown 
+
+[Command]: Lights off
+[TEST]: block: 512	 hex: 0x200	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+charger
+
+[Command]: Lights off
+[TEST]: block: 1024	 hex: 0x400	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+unknown 
+
+[Command]: Lights off
+[TEST]: block: 2048	 hex: 0x800	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+Unknown
+
+[Command]: Lights off
+[TEST]: block: 4096	 hex: 0x1000	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+unknown
+
+[Command]: Lights off
+[TEST]: block: 8192	 hex: 0x2000	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+unknown
+
+[Command]: Lights off
+[TEST]: block: 16384	 hex: 0x4000	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+unknown
+
+[Command]: Lights off
+[TEST]: block: 32768	 hex: 0x8000	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+unknown
+
+[Command]: Lights off
+[TEST]: block: 65536	 hex: 0x10000	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+unknown
+
+[Command]: Lights off
+[TEST]: block: 131072	 hex: 0x20000	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+unknown
+
+[Command]: Lights off
+[TEST]: block: 262144	 hex: 0x40000	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+unknown
+
+[Command]: Lights off
+[TEST]: block: 524288	 hex: 0x80000	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+unknown
+
+[Command]: Lights off
+[TEST]: block: 1048476	 hex: 0xfff9c	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+left+centr-left
+
+[Command]: Lights off
+[TEST]: block: 2097152	 hex: 0x200000	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+unknown
+
+[Command]: Lights off
+[TEST]: block: 4194304	 hex: 0x400000	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+unknown
+
+[Command]: Lights off
+[TEST]: block: 4194304	 hex: 0x400000	 mode:morph	 speed:1	 color1:#00ff00	 color2: #00ff00
+unknown
